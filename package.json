@@ -1,0 +1,38 @@
+{
+  "name": "st-anysdk",
+  "version": "0.1.0",
+  "description": "st-anysdk",
+  "main": "index.js",
+  "scripts": {
+    "test": "test.js"
+  },
+  "dependencies": {
+    "underscore": "1.8.3"
+  },
+  "devDependencies": {
+    "gulp-babel": "*",
+    "gulp-clean": "*",
+    "babel-register": "*",
+    "babel-core": "^6.24.0",
+    "babel-preset-es2015": "^6.24.0",
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-uglify": "^2.1.2",
+    "jscoverage": ">=0.0.1",
+    "mocha": ">=0.0.1",
+    "should": ">=0.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhennanzhuce/st-anysdk.git"
+  },
+  "keywords": [
+    "mysql"
+  ],
+  "author": "zhennanzhuce",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zhennanzhuce/st-anysdk/issues"
+  },
+  "homepage": "https://github.com/zhennanzhuce/st-anysdk"
+}
